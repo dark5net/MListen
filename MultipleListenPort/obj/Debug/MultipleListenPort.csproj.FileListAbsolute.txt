@@ -1,0 +1,9 @@
+C:\Users\dark5\source\repos\MultipleListenPort\MultipleListenPort\obj\Debug\MultipleListenPort.csproj.AssemblyReference.cache
+C:\Users\dark5\source\repos\MultipleListenPort\MultipleListenPort\obj\Debug\MultipleListenPort.Form1.resources
+C:\Users\dark5\source\repos\MultipleListenPort\MultipleListenPort\obj\Debug\MultipleListenPort.csproj.GenerateResource.cache
+C:\Users\dark5\source\repos\MultipleListenPort\MultipleListenPort\obj\Debug\MultipleListenPort.csproj.CoreCompileInputs.cache
+C:\Users\dark5\source\repos\MultipleListenPort\MultipleListenPort\bin\Debug\MListen.exe
+C:\Users\dark5\source\repos\MultipleListenPort\MultipleListenPort\bin\Debug\MListen.pdb
+C:\Users\dark5\source\repos\MultipleListenPort\MultipleListenPort\obj\Debug\MListen.Properties.Resources.resources
+C:\Users\dark5\source\repos\MultipleListenPort\MultipleListenPort\obj\Debug\MListen.exe
+C:\Users\dark5\source\repos\MultipleListenPort\MultipleListenPort\obj\Debug\MListen.pdb
